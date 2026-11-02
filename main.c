@@ -5,7 +5,7 @@ int main(void)
     int input;
     scanf("%d", &input);
     if (0 <= input && input < 10)
-    {
+    {　
         printf("OK");
     }
     else
